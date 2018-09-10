@@ -1,0 +1,14 @@
+{
+    "name": "wjdnw/log-laravel",
+    "description": "log",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wjdnw",
+            "email": "abc@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
